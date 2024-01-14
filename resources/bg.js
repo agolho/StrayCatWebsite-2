@@ -21,7 +21,7 @@ particlesJS("particles-js", {
                 "nb_sides": 20
             },
             "image": {
-                "src": "../resources/paws.png",
+                "src": "/../resources/paws.png",
                 "width": 256,
                 "height": 256
             }
